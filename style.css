@@ -1,0 +1,10 @@
+.resultado {
+    background-color: black;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    padding: 20px;
+    border-radius: 5px;
+}
